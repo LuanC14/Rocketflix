@@ -19,5 +19,6 @@ O Layout do Figma está disponível na plataforma da Rocketseat.
 <br>
 
 > Layout da versão Destkop
-![preview](./public/DesktopHome.png)
-![preview](./public/Desktop.png)
+![preview](./public/home.png)
+![preview](./public/filme.png)
+![preview](./public/library.png)
