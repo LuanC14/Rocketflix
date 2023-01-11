@@ -101,7 +101,7 @@ export class appPage extends randomMoviesApp {
 
         li.innerHTML = `
         <li>
-        <button class="remove-movie">X</button>          
+        <button class="remove-movie">❌</button>          
         <img src="" alt="">
           <p></p>
           </li>`
