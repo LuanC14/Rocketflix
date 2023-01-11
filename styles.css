@@ -48,17 +48,17 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 10px;
 }
 
 .saved-movies li img {
-  width: 120px;
-  height: 150px;
+  width: 70px;
+  height: 100px;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
 li p {
-  font-size: 14px;
+  font-size: 10px;
   flex-wrap: wrap;
   width: 120px;
 }
@@ -192,6 +192,18 @@ footer {
 
   .saved-movies {
     max-width: 900px;
+  }
+  .saved-movies {
+    gap:20px;
+  }
+
+  li p {
+    font-size: 14px;
+  }
+
+  .saved-movies li img {
+    width: 120px;
+    height: 150px;
   }
 
   .box-movies {
