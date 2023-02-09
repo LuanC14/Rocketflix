@@ -1,7 +1,7 @@
 # 💻 Rocketflix
 ### 🚀 Projeto utilizando a API da <strong>TheMovieDB.</strong>
 
-#### Consiste em um app que ao clicar no botão, sugere um filme aleatório, contendo seu nome, capa e descrição, para você assistir.
+#### Consiste em um app que ao clicar no botão, sugere um filme aleatório para você assistir e a opção de guarda-lo em uma lista de espera.
 <br>
 O Layout do Figma está disponível na plataforma da Rocketseat.
 
@@ -9,7 +9,6 @@ O Layout do Figma está disponível na plataforma da Rocketseat.
 
 ## 📚 Nele apliquei conhecimentos como:
 - Programação orientada a objetos
-- Single Page Application
 - API com método Fetch
 - Node Package Manager
 - HTML CSS e Javascript
